@@ -11,7 +11,7 @@ This is a MERN stack (MongoDB, Express.js, React.js, Node.js) application that s
 
 ## Additional Info
 
-- Repo: (dobsonkevyn/MERN-Challenge-Book-Search-Engine)
+- Repo: (https://github.com/dobsonkevyn/MERN-Challenge-Book-Search-Engine.git)
 
 - Heroku: (https://git.heroku.com/book1.git)
 
